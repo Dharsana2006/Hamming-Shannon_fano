@@ -58,18 +58,23 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6ef8777b-502e-4983-b634-21a3d5a80908" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e3678e22-9d02-487c-b5ea-83bee9b96dd0" />
 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9af42f78-73d9-4263-aefe-131e2000ebe7" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2237947d-5584-4956-8da0-75170a777acf" />
+
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dafcd12c-8ba4-474a-921d-9140b824d985" />
+
 
 
 # Output
 
-<img width="522" height="377" alt="image" src="https://github.com/user-attachments/assets/94bd6054-9ef5-498f-973f-9a2f7bc8259c" />
+<img width="1741" height="512" alt="image" src="https://github.com/user-attachments/assets/26bcbf5c-56fc-4f76-bd59-bba61d62035e" />
+
 
 
 
 # Results:
 
-The Huffman and Shannon-Fano of the given statistics {0.4,0.2,0.2,0.1,0.1} using python are verified.
+The Huffman and Shannon-Fano of the given statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using python are verified.
